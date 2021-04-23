@@ -41,7 +41,7 @@ requests
 $ apt update && apt upgrade
 $ pkg install python2
 $ git clone https://github.com/MR-N43KS/All-Spam
-$ cd MDSpammers
+$ cd All-Spam
 $ pip2 install requests
 $ python2 main.py
 ```
